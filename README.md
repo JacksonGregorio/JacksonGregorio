@@ -18,4 +18,6 @@
 
 </div>
 
+<br>
+
 Um jovem buscando por novos desafios e oportunidades.

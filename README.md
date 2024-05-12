@@ -4,7 +4,7 @@
 
 ![Jackson GitHub stats](https://github-readme-stats.vercel.app/api?username=JacksonGregorio&show_icons=true&theme=onedark)
 
-## Tecnologias Que utilizo
+## Tecnologias Que Utilizo
 
 
 <div style="display: inline_block; padding-top: 10;"><br>
